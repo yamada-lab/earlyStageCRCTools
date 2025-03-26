@@ -32,7 +32,7 @@ The software versions used in this study are written below.
 
 # Python and R Packages
 | Tools | Versions | Commands Options  | Others |
-| ---| --- | --- | --- | --- |
+| ---| --- | --- | --- |
 |vegan|2.6.7|adnis2 / permuatations=10000, by=margin||
 |lattice|0.20.45||
 |permute|0.9.7||
