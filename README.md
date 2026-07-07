@@ -1,4 +1,4 @@
-# earlyStageCRC
+<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/c577aada-c6b5-4fbb-b09c-461eeaa94d45" /># earlyStageCRC
 The study to seek the early-stage specific CRC signatures.
 
 The software versions used in this study are written below.
@@ -26,15 +26,12 @@ The software versions used in this study are written below.
 |Unicycler|0.5.1||https://github.com/rrwick/Unicycler||
 |Pseudofinder|1.14.6||https://github.com/filip-husnik/pseudofinder||
 |DIAMOND| 0.9.10.111||https://github.com/bbuchfink/diamond||
-|FastTree|2.1.10||||
-|Roary|3.13.0||||
+|Panaroo|1.5.2||||
 |samtools|1.19.2||||
 
-# Python and R Packages
+# Python Packages
 | Tools | Versions | Commands Options  | Others |
 | ---| --- | --- | --- |
-|vegan|2.6.7|adnis2 / permuatations=10000, by=margin||
-|lattice|0.20.45||
-|permute|0.9.7||
-|sklearn|v.0.0.post1| MDS / n_components=2, max_iter=3000, eps=1e-9, randam_state=1, dissimilarity=precomputed, n_jobs=1||
 |SciPy|1.7.3||
+|matplotlib-venn|v 0.11.9||
+|clustal omega in Biopython|v 1.79 ||
